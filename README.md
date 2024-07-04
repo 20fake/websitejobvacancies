@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Read more about this project in https://fathurstudio.wordpress.com/2024/07/05/bootcamp-project-membuat-website-lowongan-pekerjaan/
+
 ## Available Scripts
 
 In the project directory, you can run:
